@@ -1,17 +1,12 @@
 ---
 permalink: /
-title: "Welcome to Yuefei’s Homepage!"
+title: "Welcome to One’s Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-My main research interest lies in uncertainty quantification and its application to natural language processing, and the previous research mostly focuses on Named Entity Recognition, Sentiment Analysis under Uncertainty. The ultimate goal of my research is to build safe, trusted, and reliable natural language processing systems. 
-
-Conducting independent scientific research is one of my abilities, but not limited to the formulation and implementation of ideas, as well as the ability to write academic papers. Meanwhile, I have clear ideas and plans for future research directions, and also be interested and enthusiastic about interesting new research directions. It is desirable for me to improve myself in brainstorming, discussing and meeting with you, and finally produce high-quality and influential work outcomes.
-
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
