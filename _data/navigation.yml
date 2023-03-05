@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+  
+  - title: "TaxLab"
+    url: /tax/
+
   - title: "Guide"
     url: /markdown/
