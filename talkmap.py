@@ -11,6 +11,18 @@
 #
 # Requires: glob, getorg, geopy
 
+'''
+是一个“生成演讲地点地图”的脚本。它的作用不是展示文章内容，而是把你在各篇 talk 里写的地点，整理成一张地图。
+
+它具体做了什么
+扫描 _talks 目录下的所有 Markdown 文件
+找每篇文章里的 location 字段
+用 geopy + Nominatim 把“地点名”转成经纬度
+把这些地点收集到一个字典里
+最后调用 getorg 生成一个聚类地图页面，输出到 talkmap/ 目录
+
+'''
+
 import glob
 import getorg
 from geopy import Nominatim
