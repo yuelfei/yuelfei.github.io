@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "中文介绍"
+    url: /about_zh/  
+
   - title: "Publications"
     url: /publications/
 
