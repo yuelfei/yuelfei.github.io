@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to One’s Homepage!"
+title: "Yuefei’s Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
