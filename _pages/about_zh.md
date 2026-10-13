@@ -7,44 +7,37 @@ author_profile: true
 
 
 
-Yuefei Wu is an Associate Professor and Master's Supervisor. He received his Ph.D. degree in Computer Science and Technology from Xi'an Jiaotong University, under the supervision of Prof. [Qinghua Zheng](https://baike.baidu.com/item/%E9%83%91%E5%BA%86%E5%8D%8E/83484), a Member of the Chinese Academy of Engineering. His primary research interests include **AI Security**, **Large Language Model (LLM) Security**, and **Machine Learning**.
-
-He has published more than ten research papers in leading conferences and journals, including **AAAI, CIKM, IJCAI, Science China Information Sciences, and IEEE/ACM TASLP**, covering CCF A/B-ranked conferences and CAS Q1 journals. He holds several granted invention patents and has received a Second Prize of a Provincial Science and Technology Progress Award.
-
-He has participated in major research projects funded by the National Natural Science Foundation of China (NSFC), subprojects under the National Science and Technology Innovation 2030 Major Project, key R&D programs of Shaanxi Province, and multiple large-scale industry-sponsored research projects with funding of tens of millions of RMB. He also serves as the Principal Investigator of an NSFC Young Scientists Fund project. His research has been applied to real-world scenarios, including intelligent taxation, high-risk deployment of AI systems, and knowledge reasoning.
+武乐飞，副教授，硕士生导师，毕业于西安交通大学，导师[郑庆华院士](https://baike.baidu.com/item/%E9%83%91%E5%BA%86%E5%8D%8E/83484)，获计算机科学与技术博士学位。主要研究方向为人工智能安全、大模型安全、机器学习。累计发表包括 AAAI、CIKM、IJCAI、《Science China Information Sciences》、IEEE TASLP等 CCF A/B 类会议及中科院一区论文十余篇，多项授权发明专利，获得省级科技进步二等奖。先后参与国家自然科学基金重大专项、科技创新2030重大项目子课题、陕西省重点研发计划及多项千万级企业横向课题，并主持国家自然科学基金青年基金。研究工作涉及智慧税务、AI系统高风险部署、知识推理等实际应用场景。
 
 
 
-# Research Areas
+# 研究方向
 
-Our research primarily focuses on the following areas:
+主要围绕以下方向开展研究：
 
-**AI Security**: Security, trustworthiness, and related challenges in artificial intelligence systems.
+**人工智能安全**：人工智能系统的安全性、可信性及相关安全问题。
 
-**Machine Learning Robustness**: Robustness analysis of machine learning models, adversarial attacks, and defense mechanisms.
+**机器学习鲁棒性**：机器学习模型的鲁棒性分析、对抗攻击与防御等。
 
-**LLM Security**: Uncertainty propagation in multi-agent systems, memory evolution, and controllable memory updates.
-
-
-
-# Prospective Students
+**大模型安全**：多智能体不确定性扩散、记忆演化与可控更新等
 
 
-We welcome applications from students with a strong interest in scientific research and a high degree of self-motivation.
 
-> Prior publications or extensive research experience are not required. We place greater emphasis on personal qualities, research potential, and a willingness to make a sustained commitment to research.
-
-We particularly encourage applications from students who have:
-
-- An academic background in Computer Science, Cybersecurity, Software Engineering, Mathematics, or related disciplines;
-- Good programming skills or theoretical analysis abilities;
-- Good English academic reading skills.
-
-We also welcome motivated **undergraduate students** who are interested in AI security and related cutting-edge research topics and wish to gain early research experience through internships in our research group.
+# 招生要求
 
 
-# Contact
+欢迎具有较强科研兴趣和自我驱动力的同学报考。
 
-Prospective students are welcome to contact me via email at [wuyfei@zzu.edu.cn](wuyfei@zzu.edu.cn).
-When reaching out, please briefly introduce your academic background, research interests, and relevant experience, and attach your CV.
+> 不特别要求申请者已有论文发表或丰富的学术经历，相比之下，更看重个人品质、科研潜力和长期投入的意愿。尤其期待具备以下特点的同学加入：
+
+- 计算机科学、网络空间安全、软件工程、数学等相关专业背景；
+- 具有良好的编程实践或理论分析能力；
+- 具有较好的英文文献阅读能力；
+
+同时，欢迎对人工智能安全及相关前沿研究感兴趣、希望提前接受科研训练的优秀本科生联系，参与课题组科研实习。
+
+
+# 联系方式
+
+欢迎有意向的同学通过邮件联系：[wuyfei@zzu.edu.cn](wuyfei@zzu.edu.cn)。建议在邮件中简要介绍个人背景、研究兴趣、相关经历，并附上个人简历。
 
