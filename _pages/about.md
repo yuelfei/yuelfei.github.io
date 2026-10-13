@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuefei’s Homepage!"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,13 +9,38 @@ redirect_from:
 ---
 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Yuefei Wu is an Associate Professor and Master's Supervisor. He received his Ph.D. degree in Computer Science and Technology from Xi'an Jiaotong University, under the supervision of Prof. [Qinghua Zheng](https://baike.baidu.com/item/%E9%83%91%E5%BA%86%E5%8D%8E/83484), a Member of the Chinese Academy of Engineering. His primary research interests include AI Security, Large Language Model (LLM) Security, and Machine Learning.
+He has published more than ten research papers in leading conferences and journals, including AAAI, CIKM, IJCAI, Science China Information Sciences, and IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), covering CCF A/B-ranked conferences and CAS Q1 journals. He holds several granted invention patents and has received a Second Prize of a Provincial Science and Technology Progress Award.
+He has participated in major research projects funded by the National Natural Science Foundation of China (NSFC), subprojects under the National Science and Technology Innovation 2030 Major Project, key R&D programs of Shaanxi Province, and multiple large-scale industry-sponsored research projects with funding of tens of millions of RMB. He also serves as the Principal Investigator of an NSFC Young Scientists Fund project.
+His research has been applied to real-world scenarios, including intelligent taxation, high-risk deployment of AI systems, and knowledge reasoning.
 
 
+
+# Research Areas
+
+Our research primarily focuses on the following areas:
+
+**AI Security**: Security, trustworthiness, and related challenges in artificial intelligence systems.
+**Machine Learning Robustness**: Robustness analysis of machine learning models, adversarial attacks, and defense mechanisms.
+**LLM Security**: Uncertainty propagation in multi-agent systems, memory evolution, and controllable memory updates.
+
+
+
+# Prospective Students
+
+
+We welcome applications from students with a strong interest in scientific research and a high degree of self-motivation.
+Prior publications or extensive research experience are not required. We place greater emphasis on personal qualities, research potential, and a willingness to make a sustained commitment to research.
+We particularly encourage applications from students who have:
+- An academic background in Computer Science, Cybersecurity, Software Engineering, Mathematics, or related disciplines;
+- Good programming skills or theoretical analysis abilities;
+- Good English academic reading skills.
+We also welcome motivated undergraduate students who are interested in AI security and related cutting-edge research topics and wish to gain early research experience through internships in our research group.
+
+
+# Contact
+
+Prospective students are welcome to contact me via email at wuyfei@zzu.edu.cn.
+When reaching out, please briefly introduce your academic background, research interests, and relevant experience, and attach your CV.
 
