@@ -87,9 +87,9 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john +snow1"
   googlescholar    : # "https://scholar.google.com/citations?user=XRLIxf8AAAAJ&hl=en"
-  email            : "yuelfei.wu@gmail.com"
+  email            : "wuyfei@zzu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -178,10 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  # publications:
-  #   output: true
-  #   permalink: /:collection/:path/
-  portfolio:
+  publications:
     output: true
     permalink: /:collection/:path/
   talks:

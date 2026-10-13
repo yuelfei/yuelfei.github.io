@@ -43,7 +43,7 @@ We particularly encourage applications from students who have:
 - Good programming skills or theoretical analysis abilities;
 - Good English academic reading skills.
 
-We also welcome motivated **undergraduate students** who are interested in AI security and related cutting-edge research topics and wish to gain early research experience through internships in our research group.
+We also welcome motivated **undergraduate students (No specific school required)** who are interested in AI security and related cutting-edge research topics and wish to gain early research experience through internships in our research group.
 
 
 # Contact
